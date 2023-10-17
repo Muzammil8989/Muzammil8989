@@ -24,3 +24,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muzammil8989&" alt="muzammil8989" /></p>
 
+
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Muzammil14" alt="muzammil8989's Wakatime Stats" /></p>
+
+
+
+<!--END_SECTION:waka-->
+
