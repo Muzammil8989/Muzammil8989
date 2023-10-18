@@ -5,7 +5,8 @@ I'm a passionate software developer skilled in PHP, HTML, CSS, SASS, Java, C++, 
 - 📫 Reach out to me at: [email](mailto:muhammad.muzammil@email.com)
 - 📄 Here's my [CV/Portfolio](https://your-portfolio-link.com)
 - 🌐 Personal Website: [muzammilkhan.dev](https://muzammilkhan.dev)
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-muhammad-muzammil-khan-/)
+
 
  <h2>My Skills</h2>
 <p align="center">
