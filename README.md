@@ -2,7 +2,7 @@
 
 "I'm a passionate software developer skilled in Node.js, HTML, CSS, SASS, Java, C++, JavaScript, Python, Bootstrap, and many more."
 
-- 📫 Reach out to me at: [email](mailto:muhammad.muzammil@email.com)
+- 📫 Reach out to me at: [email](mailto:muzammilkhan89223@email.com)
 - 📄 Here's my [CV/Portfolio](https://your-portfolio-link.com)
 - 🌐 Personal Website: [muzammilkhan.dev](https://muzammilkhan.dev)
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-muhammad-muzammil-khan-/)
@@ -20,7 +20,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/> 
 </p>
 
