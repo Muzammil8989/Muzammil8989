@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Muhammad Muzammil Khan!
 
-I'm a passionate software developer skilled in PHP, HTML, CSS, SASS, Java, C++, JavaScript, Python, Bootstrap, and many more.
+"I'm a passionate software developer skilled in Node.js, HTML, CSS, SASS, Java, C++, JavaScript, Python, Bootstrap, and many more."
 
 - 📫 Reach out to me at: [email](mailto:muhammad.muzammil@email.com)
 - 📄 Here's my [CV/Portfolio](https://your-portfolio-link.com)
@@ -10,7 +10,6 @@ I'm a passionate software developer skilled in PHP, HTML, CSS, SASS, Java, C++, 
 
  <h2>My Skills</h2>
 <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="SASS" width="40"/> 
@@ -19,7 +18,12 @@ I'm a passionate software developer skilled in PHP, HTML, CSS, SASS, Java, C++, 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40"/> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" alt="JSON" width="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40"/> 
 </p>
+
 
 
 
