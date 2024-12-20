@@ -3,9 +3,9 @@
 "I'm a passionate software developer skilled in Node.js, HTML, CSS, SASS, Java, C++, JavaScript, Python, Bootstrap, and many more."
 
 - 📫 Reach out to me at: [email](mailto:muzammilkhan89223@email.com)
-- 📄 Here's my [CV/Portfolio](https://your-portfolio-link.com)
-- 🌐 Personal Website: [muzammilkhan.dev](https://muzammilkhan.dev)
-- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-muhammad-muzammil-khan-/)
+- 📄 Here's my [CV/Portfolio](https://muzammil-khan-portfolio.vercel.app/)
+- 🌐 Personal Website: [muzammilkhan.dev](https://muzammil-khan-portfolio.vercel.app/)
+- 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-muhammad-muzammil-khan-)
 
 
  <h2>My Skills</h2>
