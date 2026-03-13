@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-  <a href="https://muzammil-khan-portfolio.vercel.app/" target="_blank">
+  <a href="https://muhammad-muzammil-khan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-muhammad-muzammil-khan-" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-muzammil-khan-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:muzammilkhan89223@gmail.com">
@@ -105,28 +105,11 @@ Currently pursuing a **BSc in Computer Science** at Bahria University Karachi (C
 
 ---
 
-## ⏱️ Weekly Coding Activity
-
-<p align="center">
-  <a href="https://wakatime.com/@Muzammil14">
-    <img src="https://wakatime.com/badge/user/Muzammil14.svg" alt="Total Code Time" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@Muzammil14">
-    <img src="https://wakatime.com/share/@Muzammil14/languages.svg" alt="Wakatime Languages" width="45%" />
-    <img src="https://wakatime.com/share/@Muzammil14/editors.svg" alt="Wakatime Editors" width="45%" />
-  </a>
-</p>
-
----
-
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [muzammil-khan-portfolio.vercel.app](https://muzammil-khan-portfolio.vercel.app/)
+- 🌐 **Portfolio:** [muhammad-muzammil-khan.vercel.app](https://muhammad-muzammil-khan.vercel.app/)
 - 📧 **Email:** [muzammilkhan89223@gmail.com](mailto:muzammilkhan89223@gmail.com)
-- 💼 **LinkedIn:** [Muhammad Muzammil Khan](https://www.linkedin.com/in/your-linkedin-muhammad-muzammil-khan-)
+- 💼 **LinkedIn:** [Muhammad Muzammil Khan](https://www.linkedin.com/in/muhammad-muzammil-khan-)
 
 ---
 
