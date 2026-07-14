@@ -107,7 +107,7 @@ Currently pursuing a **BSc in Computer Science** at Bahria University Karachi (C
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [muhammad-muzammil-khan.vercel.app](https://muhammad-muzammil-khan.vercel.app/)
+- 🌐 **Portfolio:** [muzammilkhan.dev](https://muzammilkhan.dev/)
 - 📧 **Email:** [muzammilkhan89223@gmail.com](mailto:muzammilkhan89223@gmail.com)
 - 💼 **LinkedIn:** [Muhammad Muzammil Khan](https://www.linkedin.com/in/muhammad-muzammil-khan-)
 
