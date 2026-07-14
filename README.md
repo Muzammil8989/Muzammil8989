@@ -62,7 +62,7 @@ Currently pursuing a **BSc in Computer Science** at Bahria University Karachi (C
 
 | Role | Company | Period |
 |------|---------|--------|
-| Full Stack Engineer | Pakistan Agriculture Research *(Client: Data Pioneer Solutions, US)* | May 2025 – Present |
+| Full Stack Engineer | Pakistan Agriculture Research | May 2025 – Present |
 | Full Stack Developer | Master Motor Corporation Pvt. Ltd. | Feb 2025 – Apr 2025 |
 | React/Node.js Developer | Fission Fox | Aug 2024 – Jan 2025 |
 
